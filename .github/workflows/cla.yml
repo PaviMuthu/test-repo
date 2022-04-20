@@ -23,7 +23,7 @@ jobs:
           # branch should not be protected
           branch: 'main'
           allowlist: user1,bot*
-          remote-organization-name: 'signatures'
+          remote-organization-name: ''
           remote-repository-name: 'PaviMuthu/remoterepo'
 
          #below are the optional inputs - If the optional inputs are not given, then default values will be taken
